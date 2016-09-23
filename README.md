@@ -10,7 +10,7 @@ The original conference paper is available here:
 
 - http://www.csl.cornell.edu/~cbatten/pdfs/torng-aaws-isca2016.pdf
 
-An leakage errata and addendum is available here:
+A leakage errata and addendum is available here:
 
 - http://www.csl.cornell.edu/~ctorng/pdfs/torng-aaws-errata-isca2016.pdf
 
