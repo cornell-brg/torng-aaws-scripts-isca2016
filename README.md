@@ -12,7 +12,7 @@ The original conference paper is available here:
 
 A leakage errata and addendum is available here:
 
-- http://www.csl.cornell.edu/~ctorng/pdfs/torng-aaws-errata-isca2016.pdf
+- http://www.csl.cornell.edu/~cbatten/pdfs/torng-aaws-errata-isca2016.pdf
 
 Various plotting scripts are available in this repo. Each script corresponds to one of the analytical model plots (i.e., Figures 2-5) in the conference paper.
 
